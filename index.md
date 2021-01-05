@@ -1,6 +1,7 @@
 # Bradley Yeo Kian
 
 Contact: 8149 7483
+</a>
 Email: Yeo.Bradley@gmail.com
 <div id="webaddress">
 <a href=https://www.linkedin.com/in/bradleyyeokian>My Linkedin page</a>
@@ -29,12 +30,12 @@ pandas, scikit-learn, Git, SHAP, bash, Tableau, plotly
 ## Experience
 `Jan 2020 - Now`
 Student Assistant for SMU Academy
-
+<>
 `Oct 2017 - Dec 2018`
 JUMBO Group, Singapore, Bangkok, Ho Chi Minh City, Jakarta - Market Research Intern
   7 week overseas immersion programme in major ASEAN cities to conduct market penetration strategies for JUMBO Seafood
   Improved top of mind recall by using Google Analytics and Adwords for JUMBO Seafood
-
+<>
 `Mar 2017 - May 2018`
 Marketing Executive at Lalamove
 
