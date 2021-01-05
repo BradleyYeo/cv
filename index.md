@@ -1,7 +1,7 @@
 # Bradley Yeo Kian
 
 Contact: 8149 7483
-</a>
+  </div>
 Email: Yeo.Bradley@gmail.com
 <div id="webaddress">
 <a href=https://www.linkedin.com/in/bradleyyeokian>My Linkedin page</a>
