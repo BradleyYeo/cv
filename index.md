@@ -6,10 +6,11 @@ title: Bradley Yeo Kian
 
 Contact: 8149 7483
 <br>
-Email: Yeo.Bradley@gmail.com
+Email: yeo.bradley@gmail.com
 <div id="webaddress">
-<a href=https://www.linkedin.com/in/bradleyyeokian>My Linkedin page</a>
-| <a href="https://github.com/BradleyYeo">My Github page</a>
+<a href=https://www.linkedin.com/in/bradleyyeokian>LinkedIn</a>
+| <a href="https://github.com/BradleyYeo">Github</a>
+| <a href="https://www.kaggle.com/bradleyyeokian">Kaggle</a>
 </div>
 
 ## Education (CGPA: 3.1)
