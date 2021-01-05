@@ -1,7 +1,3 @@
----
-layout: cv
-title: Bradley Yeo Kian
----
 # Bradley Yeo Kian
 
 Contact: 8149 7483
