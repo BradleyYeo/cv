@@ -26,9 +26,10 @@ Introduction to Programming (Python), Data Management (SQL), Analytics Foundatio
 
 ## Skills (frequent usage for 1+ year)
 **Languages:**  
-Python, mySQL
+- Python, mySQL
+</div>
 **Libraries and Tools:**
-pandas, scikit-learn, Git, SHAP, bash, Tableau, plotly
+- pandas, scikit-learn, Git, SHAP, bash, Tableau, plotly
 
 ## Experience
 **SMU Academy**
@@ -51,15 +52,15 @@ Student Assistant
 - Facebook bot detection model | Analysed over 7 million auction bids to determine if bids were made by a human or bot using ensemble learning
 
 ## Leadership and Awards
-**Singapore Polytechnic Honour Roll**
+- Singapore Polytechnic Honour Roll
 `2017-2018`<br>
-**National Youth Achievement Award (Gold)**
+- National Youth Achievement Award (Gold)
 `2018`<br>
-**Skills Director of SP NYAA Ambassadors Club**
+- Skills Director of SP NYAA Ambassadors Club
 `2016-2017`<br>
 
 
-## Medium Publications
+## Publications
 <a href=medium.com/@bradleyyeo>My Medium blog</a>
 
 <!-- ### Footer
