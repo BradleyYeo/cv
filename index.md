@@ -1,3 +1,7 @@
+---
+layout: cv
+title: Bradley Yeo Kian
+---
 # Bradley Yeo Kian
 
 Contact: 8149 7483
@@ -8,20 +12,17 @@ Email: Yeo.Bradley@gmail.com
 | <a href="https://github.com/BradleyYeo">My Github page</a>
 </div>
 
-
 ## Education (CGPA: 3.1)
-  </div>
-SMU Information Systems Student (Smart-City Management and Artificial Intelligence)
-  </div>
-Coursework: Computational Thinking (Python),  Data Management,  
+**SMU Information Systems Student (Smart-City Management and Artificial Intelligence)**
+- Coursework: Computational Thinking (Python),  Data Management,  
 Introduction to Programming (Python), Data Management (SQL), Analytics Foundation (Pandas)
+- Expected Graduation: `Aug 2024`
   </div>
-Expected Graduation: `Aug 2024`
-  </div>
+
+**Singapore Polytechnic - Diploma in Business Administration (CGPA: 3.774)**
 `May 2016 - May 2018`
-Singapore Polytechnic - Diploma in Business Administration (GPA: 3.774)
-Diploma Plus: Maritime Law and Dispute Resolution (GPA: 4.00)
-Coursework:  Market Intelligence, Operations Management, Business Transport and Distribution Services, Global Supply Chain Management, Business Law, Financial Analysis and Management, Quantitative Analysis, Statistics.
+- Diploma Plus: Maritime Law and Dispute Resolution (CGPA: 4.00)
+- Coursework:  Market Intelligence, Operations Management, Business Transport and Distribution Services, Global Supply Chain Management, Business Law, Financial Analysis and Management, Quantitative Analysis, Statistics.
 
 ## Skills (frequent usage for 1+ year)
 ### Languages:  
@@ -30,16 +31,13 @@ Python, mySQL
 pandas, scikit-learn, Git, SHAP, bash, Tableau, plotly
 
 ## Experience
-  </div>
-`Jan 2020 - Now`
+`Jan 2020 - Now`<br>
 Student Assistant for SMU Academy
-  </div>
-`Oct 2017 - Dec 2018`
+`Oct 2017 - Dec 2018`<br>
 JUMBO Group, Singapore, Bangkok, Ho Chi Minh City, Jakarta - Market Research Intern
   7 week overseas immersion programme in major ASEAN cities to conduct market penetration strategies for JUMBO Seafood
   Improved top of mind recall by using Google Analytics and Adwords for JUMBO Seafood
-  </div>
-`Mar 2017 - May 2018`
+`Mar 2017 - May 2018`<br>
 Marketing Executive at Lalamove
 
 ### Projects
@@ -47,14 +45,11 @@ Marketing Executive at Lalamove
 Facebook bot detection model | Analysed over 7 million auction bids to determine if bids were made by a human or bot using ensemble learning
 
 ## Leadership and Awards
-  </div>
-`2017-2018`
+`2017-2018`<br>
 Singapore Polytechnic Honour Roll 
-  </div>
-`2018`
+`2018`<br>
 National Youth Achievement Award (Gold)
-  </div>
-`2016-2017`
+`2016-2017`<br>
 Skills Director of SP NYAA Ambassadors Club
 
 ## Medium Publications
