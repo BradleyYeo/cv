@@ -1,87 +1,55 @@
 # Bradley Yeo Kian
-SMU Information Systems Student (Smart-City Management and Artificial Intelligence).
 
+Contact: 8149 7483
+Email: Yeo.Bradley@gmail.com
 <div id="webaddress">
-<a href=https://www.linkedin.com/in/bradleyyeokian>My Linkedin page<</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My Github page</a>
+<a href=https://www.linkedin.com/in/bradleyyeokian>My Linkedin page</a>
+| <a href="https://github.com/BradleyYeo">My Github page</a>
 </div>
 
 
-## Currently
+## Education (GPA: 3.1)
+SMU Information Systems Student (Smart-City Management and Artificial Intelligence)
+Coursework: Computational Thinking (Python),  Data Management,  
+Introduction to Programming (Python), Data Management (SQL), Analytics Foundation(Pandas)
 
-Standing on the shoulders of giants
+## Skills (frequent usage for 1+ year)
+### Languages:  
+Python, mySQL
+### Libraries and Tools:
+pandas, scikit-learn, Git, SHAP, bash, Tableau, plotly
 
-### Specialized in
+### Projects
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Facebook bot detection model|Analysed over 7 million auction bids to determine if bids were made by a human or bot using ensemble learning.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020-now`
+SMU School of Information Systems
 
 `June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+Singapore Polytechnic (Business Administration)
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2018`
+National Youth Achievement Award (Gold)
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+## Medium Publications
+<a href=medium.com/@bradleyyeo>My Medium blog</a>
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`May 2017`
+Marketing Executive at Lalamove
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`May 2018 - May 2020`
+Supply Assistant (Special Operations Tactical Centre)
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2021 -->
 
 
