@@ -1,7 +1,7 @@
 # Bradley Yeo Kian
 
 Contact: 8149 7483
-  </div>
+</div>
 Email: Yeo.Bradley@gmail.com
 <div id="webaddress">
 <a href=https://www.linkedin.com/in/bradleyyeokian>My Linkedin page</a>
@@ -10,11 +10,14 @@ Email: Yeo.Bradley@gmail.com
 
 
 ## Education (CGPA: 3.1)
-Expected Graduation: Aug 2024
+</div>
 SMU Information Systems Student (Smart-City Management and Artificial Intelligence)
+</div>
 Coursework: Computational Thinking (Python),  Data Management,  
 Introduction to Programming (Python), Data Management (SQL), Analytics Foundation (Pandas)
-
+</div>
+Expected Graduation: Aug 2024
+</div>
 `May 2016 - May 2018`
 Singapore Polytechnic - Diploma in Business Administration (GPA: 3.774)
 Diploma Plus: Maritime Law and Dispute Resolution (GPA: 4.00)
@@ -30,12 +33,12 @@ pandas, scikit-learn, Git, SHAP, bash, Tableau, plotly
 ## Experience
 `Jan 2020 - Now`
 Student Assistant for SMU Academy
-<>
+</div>
 `Oct 2017 - Dec 2018`
 JUMBO Group, Singapore, Bangkok, Ho Chi Minh City, Jakarta - Market Research Intern
   7 week overseas immersion programme in major ASEAN cities to conduct market penetration strategies for JUMBO Seafood
   Improved top of mind recall by using Google Analytics and Adwords for JUMBO Seafood
-<>
+</div>
 `Mar 2017 - May 2018`
 Marketing Executive at Lalamove
 
