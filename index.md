@@ -2,8 +2,8 @@
 SMU Information Systems Student (Smart-City Management and Artificial Intelligence).
 
 <div id="webaddress">
-<a href=https://www.linkedin.com/in/bradleyyeokian>https://www.linkedin.com/in/bradleyyeokian</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href=linkedin>https://www.linkedin.com/in/bradleyyeokian</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My Github page</a>
 </div>
 
 
