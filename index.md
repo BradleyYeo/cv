@@ -1,8 +1,7 @@
 # Bradley Yeo Kian
 
 Contact: 8149 7483
-</div>
-Email: Yeo.Bradley@gmail.com
+</div>Email: Yeo.Bradley@gmail.com
 <div id="webaddress">
 <a href=https://www.linkedin.com/in/bradleyyeokian>My Linkedin page</a>
 | <a href="https://github.com/BradleyYeo">My Github page</a>
@@ -16,21 +15,21 @@ SMU Information Systems Student (Smart-City Management and Artificial Intelligen
 Coursework: Computational Thinking (Python),  Data Management,  
 Introduction to Programming (Python), Data Management (SQL), Analytics Foundation (Pandas)
 </div>
-Expected Graduation: Aug 2024
+Expected Graduation: `Aug 2024`
 </div>
 `May 2016 - May 2018`
 Singapore Polytechnic - Diploma in Business Administration (GPA: 3.774)
 Diploma Plus: Maritime Law and Dispute Resolution (GPA: 4.00)
 Coursework:  Market Intelligence, Operations Management, Business Transport and Distribution Services, Global Supply Chain Management, Business Law, Financial Analysis and Management, Quantitative Analysis, Statistics.
 
-## Skills
-(frequent usage for 1+ year)
+## Skills (frequent usage for 1+ year)
 ### Languages:  
 Python, mySQL
 ### Libraries and Tools:
 pandas, scikit-learn, Git, SHAP, bash, Tableau, plotly
 
 ## Experience
+</div>
 `Jan 2020 - Now`
 Student Assistant for SMU Academy
 </div>
@@ -47,10 +46,13 @@ Marketing Executive at Lalamove
 Facebook bot detection model | Analysed over 7 million auction bids to determine if bids were made by a human or bot using ensemble learning
 
 ## Leadership and Awards
+</div>
 `2017-2018`
 Singapore Polytechnic Honour Roll 
+</div>
 `2018`
 National Youth Achievement Award (Gold)
+</div>
 `2016-2017`
 Skills Director of SP NYAA Ambassadors Club
 
