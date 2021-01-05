@@ -5,7 +5,7 @@ title: Bradley Yeo Kian
 # Bradley Yeo Kian
 
 Contact: 8149 7483
-  </div>
+<br>
 Email: Yeo.Bradley@gmail.com
 <div id="webaddress">
 <a href=https://www.linkedin.com/in/bradleyyeokian>My Linkedin page</a>
@@ -19,7 +19,6 @@ Email: Yeo.Bradley@gmail.com
   </div>
 
 **Singapore Polytechnic - Diploma in Business Administration (CGPA: 3.774)**
-  </div>
 `May 2016 - May 2018`<br>
 - Diploma Plus: Maritime Law and Dispute Resolution (CGPA: 4.00)
 - Coursework:  Market Intelligence, Operations Management, Business Transport and Distribution Services, Global Supply Chain Management, Business Law, Financial Analysis and Management, Quantitative Analysis, Statistics.
@@ -34,7 +33,7 @@ Email: Yeo.Bradley@gmail.com
 ## Experience
 **SMU Academy**
 `Jan 2020 - Now`<br>
-Student Assistant for Artificial Intelligence and Machine Learning modules
+- Student Assistant for Artificial Intelligence and Machine Learning modules
 
 **JUMBO Group**
 `Oct 2017 - Dec 2018`<br>
@@ -52,11 +51,11 @@ Student Assistant for Artificial Intelligence and Machine Learning modules
 - Facebook bot detection model | Analysed over 7 million auction bids to determine if bids were made by a human or bot using ensemble learning
 
 ## Leadership and Awards
-- Singapore Polytechnic Honour Roll
+- Singapore Polytechnic Honour Roll</div>
 `2017-2018`<br>
-- National Youth Achievement Award (Gold)
+- National Youth Achievement Award (Gold)</div>
 `2018`<br>
-- Skills Director of SP NYAA Ambassadors Club
+- Skills Director of SP NYAA Ambassadors Club</div>
 `2016-2017`<br>
 
 
