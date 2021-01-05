@@ -1,9 +1,5 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
 # Bradley Yeo Kian
-Physicist, Mathematician, Cambridge professor.
+SMU Information Systems Student (Smart-City Management and Artificial Intelligence).
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
