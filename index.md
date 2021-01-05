@@ -14,12 +14,12 @@ Email: Yeo.Bradley@gmail.com
 
 ## Education (CGPA: 3.1)
 **SMU Information Systems Student (Smart-City Management and Artificial Intelligence)**
-- Coursework: Computational Thinking (Python),  Data Management,  
-Introduction to Programming (Python), Data Management (SQL), Analytics Foundation (Pandas)
+- Coursework: Computational Thinking (Python), Introduction to Programming (Python), Data Management (SQL), Analytics Foundation (Pandas)
 - Expected Graduation: `Aug 2024`
   </div>
 
 **Singapore Polytechnic - Diploma in Business Administration (CGPA: 3.774)**
+  </div>
 `May 2016 - May 2018`<br>
 - Diploma Plus: Maritime Law and Dispute Resolution (CGPA: 4.00)
 - Coursework:  Market Intelligence, Operations Management, Business Transport and Distribution Services, Global Supply Chain Management, Business Law, Financial Analysis and Management, Quantitative Analysis, Statistics.
@@ -27,14 +27,14 @@ Introduction to Programming (Python), Data Management (SQL), Analytics Foundatio
 ## Skills (frequent usage for 1+ year)
 **Languages:**  
 - Python, mySQL
-</div>
+  </div>
 **Libraries and Tools:**
 - pandas, scikit-learn, Git, SHAP, bash, Tableau, plotly
 
 ## Experience
 **SMU Academy**
 `Jan 2020 - Now`<br>
-Student Assistant 
+Student Assistant for Artificial Intelligence and Machine Learning modules
 
 **JUMBO Group**
 `Oct 2017 - Dec 2018`<br>
