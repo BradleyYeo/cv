@@ -7,7 +7,7 @@ Email: yeo.bradley@gmail.com
 <br>
 
 <div id="webaddress">
-<a href=https://www.linkedin.com/in/bradleyyeokian>LinkedIn</a>
+<a href="https://www.linkedin.com/in/bradleyyeokian">LinkedIn</a>
 | <a href="https://github.com/BradleyYeo">Github</a>
 | <a href="https://www.kaggle.com/bradleyyeokian">Kaggle</a>
 </div>
