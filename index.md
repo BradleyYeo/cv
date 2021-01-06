@@ -25,15 +25,15 @@ Email: yeo.bradley@gmail.com
 - Coursework:  Market Intelligence, Operations Management, Business Transport and Distribution Services, Global Supply Chain Management, Business Law, Financial Analysis and Management, Quantitative Analysis, Statistics.
 
 ## Skills (frequent usage for 1+ year)
-### Languages:
+**Languages:**
 - Python, mySQL
 
-### Libraries and Tools:
+**Libraries and Tools:**
 - pandas, scikit-learn, Git, SHAP, bash, Tableau, plotly
 
 ## Projects
 
-- Facebook bot detection model | Analysed over 7 million auction bids to determine if bids were made by a human or bot using ensemble learning
+- *Facebook bot detection model* | Analysed over 7 million auction bids to determine if bids were made by a human or bot using ensemble learning
 
 ## Experience
 `Jan 2020 - Now`
