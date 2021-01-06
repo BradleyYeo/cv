@@ -25,6 +25,10 @@ Email: yeo.bradley@gmail.com
 **Libraries and Tools:**
 - pandas, scikit-learn, Git, SHAP, bash, Tableau, plotly
 
+## Projects
+
+- Facebook bot detection model | Analysed over 7 million auction bids to determine if bids were made by a human or bot using ensemble learning
+
 ## Experience
 **SMU Academy**
 `Jan 2020 - Now`<br>
@@ -40,10 +44,6 @@ Email: yeo.bradley@gmail.com
 `Mar 2017 - May 2018`<br>
 - Marketing Executive 
 - Created targeted advertisement campaigns on Instagram and Facebook
-
-### Projects
-
-- Facebook bot detection model | Analysed over 7 million auction bids to determine if bids were made by a human or bot using ensemble learning
 
 ## Leadership and Awards
 - Singapore Polytechnic Honour Roll</div>
