@@ -3,9 +3,9 @@ layout: cv
 title: Bradley Yeo Kian CV
 ---
 # Bradley Yeo Kian
-
-<br>
 Email: yeo.bradley@gmail.com
+<br>
+
 <div id="webaddress">
 <a href=https://www.linkedin.com/in/bradleyyeokian>LinkedIn</a>
 | <a href="https://github.com/BradleyYeo">Github</a>
@@ -19,7 +19,7 @@ Email: yeo.bradley@gmail.com
   </div>
 
 **Singapore Polytechnic - Diploma in Business Administration (CGPA: 3.774)**
-`May 2016 - May 2018`<br>
+`May 2016 - May 2018`
 - Diploma Plus: Maritime Law and Dispute Resolution (CGPA: 4.00)
 - Coursework:  Market Intelligence, Operations Management, Business Transport and Distribution Services, Global Supply Chain Management, Business Law, Financial Analysis and Management, Quantitative Analysis, Statistics.
 
@@ -36,31 +36,31 @@ Email: yeo.bradley@gmail.com
 
 ## Experience
 **SMU Academy**
-`Jan 2020 - Now`<br>
+`Jan 2020 - Now`
 - Student Assistant for Artificial Intelligence and Machine Learning modules
 
+
 **JUMBO Group**
-`Oct 2017 - Dec 2018`<br>
+`Oct 2017 - Dec 2018`
 - Market Research Intern (Singapore, Bangkok, Ho Chi Minh City, Jakarta) 
 - 7 week overseas immersion programme in major ASEAN cities to conduct market penetration strategies for JUMBO Seafood
 - Improved top of mind recall by using Google Analytics and Adwords for JUMBO Seafood
 
 **Lalamove**
-`Mar 2017 - May 2018`<br>
+`Mar 2017 - May 2018`
 - Marketing Executive 
 - Created targeted advertisement campaigns on Instagram and Facebook
 
 ## Leadership and Awards
-- Singapore Polytechnic Honour Roll</div>
-`2017-2018`<br>
-- National Youth Achievement Award (Gold)</div>
-`2018`<br>
-- Skills Director of SP NYAA Ambassadors Club</div>
-`2016-2017`<br>
+`2017-2018`
+Singapore Polytechnic Honour Roll
 
+`2018`
+National Youth Achievement Award (Gold)
 
-## Publications
-<a href=http://medium.com/@bradleyyeo>My Medium blog</a>
+`2016-2017`
+Skills Director of SP NYAA Ambassadors Club
+
 
 <!-- ### Footer
 
