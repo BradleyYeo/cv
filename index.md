@@ -57,7 +57,7 @@ Email: yeo.bradley@gmail.com
 
 
 ## Publications
-<a href=medium.com/@bradleyyeo>My Medium blog</a>
+<a href=http://medium.com/@bradleyyeo>My Medium blog</a>
 
 <!-- ### Footer
 
