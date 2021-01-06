@@ -1,8 +1,9 @@
-# Bradley Yeo Kian
 ---
 layout: cv
 title: Bradley Yeo Kian CV
 ---
+# Bradley Yeo Kian
+
 <br>
 Email: yeo.bradley@gmail.com
 <div id="webaddress">
