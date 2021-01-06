@@ -16,7 +16,7 @@ Email: yeo.bradley@gmail.com
 **SMU Information Systems Student (Smart-City Management and Artificial Intelligence)**
 - Coursework: Computational Thinking (Python), Introduction to Programming (Python), Data Management (SQL), Analytics Foundation (Pandas)
 - Expected Graduation: `Aug 2024`
-  </div>
+
 
 **Singapore Polytechnic - Diploma in Business Administration (CGPA: 3.774)**
 `May 2016 - May 2018`
@@ -24,10 +24,10 @@ Email: yeo.bradley@gmail.com
 - Coursework:  Market Intelligence, Operations Management, Business Transport and Distribution Services, Global Supply Chain Management, Business Law, Financial Analysis and Management, Quantitative Analysis, Statistics.
 
 ## Skills (frequent usage for 1+ year)
-**Languages:**  
+### Languages:
 - Python, mySQL
-  </div>
-**Libraries and Tools:**
+
+### Libraries and Tools:
 - pandas, scikit-learn, Git, SHAP, bash, Tableau, plotly
 
 ## Projects
