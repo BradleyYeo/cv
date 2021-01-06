@@ -32,8 +32,7 @@ Email: yeo.bradley@gmail.com
 - pandas, scikit-learn, Git, SHAP, bash, Tableau, plotly
 
 ## Projects
-
-- *Facebook bot detection model* | Analysed over 7 million auction bids to determine if bids were made by a human or bot using ensemble learning
+Facebook bot detection model | Analysed over 7 million auction bids to determine if bids were made by a human or bot using ensemble learning
 
 ## Experience
 `Jan 2020 - Now`
@@ -65,5 +64,3 @@ Skills Director of SP NYAA Ambassadors Club
 <!-- ### Footer
 
 Last updated: Jan 2021 -->
-
-
